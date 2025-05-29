@@ -113,7 +113,7 @@ npx expo start
 | Nome                | GitHub                                                       |
 | ------------------- | ------------------------------------------------------------ |
 | Ana Luiza Guilherme | [@AnaLuizaGuilherme](https://github.com/AnaLuizaGuilherme)   |
-| Kayky Mourão        | [@KaykyMourao](https://github.com/kaykymaourao)              |
+| Kayky Mourão        | [@KaykyMourao](https://github.com/kaykymourao)              |
 | Murillo Prado       | [@MurilloPrado](https://github.com/MurilloPrado)             |
 
 ---
