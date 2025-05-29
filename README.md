@@ -132,7 +132,7 @@ npx expo start
 * Curso: **Ciência da Computação**
 * Semestre: 5º
 * Período: Manhã
-* Professora orientadora: **Dra. Andréa Ono Sakai**
+* Professoras orientadoras: **Dra. Andréa Ono Sakai & Aline Santos**
 * Evento: **Mostra de Tecnologia 1º Semestre de 2025**
 * Local: Laboratório 12
 * Datas: 05 e 06 de junho de 2025
