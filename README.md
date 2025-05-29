@@ -121,7 +121,6 @@ npx expo start
 ## 🧠 Disciplinas Envolvidas
 
 * Estrutura de Dados II
-* Engenharia de Software
 * Programação Mobile
 
 ---
