@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "MAK-Logi",
+    "slug": "MAK_Transports",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.murilloprado.MAK_Transports",
+      "config" : {
+      "googleMaps": {
+        "apiKey": "GOOGLE API"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9231b43a-50f2-4185-8e50-8955f9597e09"
+      }
+    }
+  }
+}
